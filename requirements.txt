@@ -1,0 +1,5 @@
+pdoc==12.*
+flake8==6.0.0
+pytest==7.1.*
+torch==2.0.1
+matplotlib==3.7.1
